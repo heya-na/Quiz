@@ -9,3 +9,6 @@ var questions = [
 
 //create quiz
 var quiz = new Quiz(questions);
+
+//display next question
+UI.displayNext();
